@@ -5,6 +5,7 @@ public class test {
 		// TODO Auto-generated method stub
 		Integer i=120;
 		Integer j=1200;
+		j++£»
 		System.out.println(i==j);
 	}
 
